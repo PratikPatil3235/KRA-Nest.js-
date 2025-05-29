@@ -7,9 +7,11 @@ A simple Book Management REST API built using [NestJS](https://nestjs.com/). Thi
 ## 🚀 Features
 
 - Create, read, update, and delete (CRUD) books
-- Modular architecture (Controller, Service, Module)
+- Modular architecture (Controller, Service, Module,middleware)
 - In-memory data storage (for demonstration)
 - RESTful API structure
+- before updateing any request every request which has book as their starting point api it will be logged in logger file
+- for checking how many requests have been made and to check on which date they have been made 
 
 ---
 
