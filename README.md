@@ -49,7 +49,6 @@ json
 Copy
 Edit
 {
-  "id": "1",
   "title": "Clean Code",
   "author": "Robert C. Martin",
   "year": 2008
